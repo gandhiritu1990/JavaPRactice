@@ -1,3 +1,4 @@
+com\testNG\TestNGClass1.class
 javaPractice\ImmediatePerfectSquare.class
 javaPractice\Notes.class
 javaPractice\FindDigitsInAString.class
@@ -9,6 +10,7 @@ javaPractice\NewClass.class
 javaPractice\ReverseString.class
 javaPractice\GetASCIIValue.class
 javaPractice\ClassB.class
+javaPractice\WriteExcelData.class
 javaPractice\ArraySwap.class
 javaPractice\DBConnection.class
 javaPractice\OccurrenceOfDups.class
