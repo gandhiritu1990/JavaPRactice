@@ -6,7 +6,7 @@ import java.util.Map;
 public class OccurrenceOfDups {
 
     public static void main(String[] args){
-        String s = "apppalpaeaes";
+        String s = "papp";
         HashMap<Character,Integer> dups = new HashMap<>();
         int count = 2;
         for (int i=0; i<=s.length()-1; i++){
@@ -25,8 +25,6 @@ public class OccurrenceOfDups {
                     }
                 }
             }
-
-
 
         }
         for(Map.Entry e: dups.entrySet()){
